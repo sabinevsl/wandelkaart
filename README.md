@@ -1,2 +1,2 @@
 # wandelkaart
-gemaakte wandelingen
+wandeltracks
